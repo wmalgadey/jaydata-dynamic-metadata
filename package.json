@@ -19,7 +19,6 @@
     "url": "http://jaydata.org"
   },
   "dependencies": {
-    "@types/es6-promise": "0.0.32",
     "@types/extend": "^2.0.30",
     "@types/reflect-metadata": "0.0.5",
     "extend": "^3.0.0",
